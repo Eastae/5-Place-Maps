@@ -1,0 +1,13 @@
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+	  
+h2{
+	height: 20px;
+	font-family: Comic Sans MS;
+	position: relative;
+    float: center;
+	left: 300px;
+}
